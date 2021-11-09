@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "firstName": "Erik",
+        "lastName": "Metz",
+        "username": "erik.metz.info@gmail.com",
+        "hash": "$2a$10$kJceddclukdzWqibq9XH6.KE0tfYxcwT2dEK36DC6R2Rcs16NGe9K",
+        "id": 1,
+        "dateCreated": "2021-11-08T19:13:31.981Z",
+        "dateUpdated": "2021-11-08T19:13:31.981Z"
+    }
+]
